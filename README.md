@@ -58,4 +58,4 @@ or
 ---
 
 <p align="center">Made with Love ❤️ by massgrave.dev and their Community </p>
-<p align="center">Tweaked with Passion  by [Dolfie](https://github.com/njvanas) </p>
+<p align="center">Tweaked with Passion  by @Dolfie </p>

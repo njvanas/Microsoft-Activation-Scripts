@@ -55,4 +55,4 @@ or
 
 ---
 
-<p align="center">Made with Love ❤️ by 'massgrave.dev' and their Community </p>
+<p align="center">Made with Love ❤️ by massgrave.dev and their Community </p>

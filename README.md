@@ -53,15 +53,6 @@ or
 > - Always double-check the URL before executing the command and verify the source if manually downloading files.
 > - Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
 
----
-
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches).
-
-```
-Latest Version: 3.0
-Release date: 14-Feb-2025
-```
-
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
 ### Homepage - [https://massgrave.dev/](https://massgrave.dev/)

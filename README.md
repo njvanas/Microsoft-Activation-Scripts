@@ -1,3 +1,5 @@
+[![Sync MAS Fork with Upstream](https://github.com/njvanas/Microsoft-Activation-Scripts/actions/workflows/syncfork.yml/badge.svg)](https://github.com/njvanas/Microsoft-Activation-Scripts/actions/workflows/syncfork.yml)
+
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>

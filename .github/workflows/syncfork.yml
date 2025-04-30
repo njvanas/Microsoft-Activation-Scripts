@@ -20,7 +20,7 @@ jobs:
 
       - name: Merge upstream changes while preserving custom changes
         run: |
-          git merge upstream/master -X ours || git merge --abort
+          git merge upstream/master -X ours --allow-unrelated-histories || git merge --abort
           if [ $? -ne 0 ]; then
             echo "Merge conflict detected. Please resolve conflicts manually."
             exit 1
